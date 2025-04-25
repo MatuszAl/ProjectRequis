@@ -13,7 +13,7 @@ import pyttsx3
 
 
 
-# puautogui setup
+# pyautogui setup
 pyautogui.FAILSAFE = False
 screen_w, screen_h = pyautogui.size()
 
