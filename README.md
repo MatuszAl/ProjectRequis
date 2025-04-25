@@ -7,7 +7,7 @@ Voice recognition for:
 * Opening a browser (Firefox) with a query.
 
 Feedback:
-*TTS and Terminal
+* TTS and Terminal
 
 Hand gesture recognition:
 * Pinch and hold index finger and thumb together ==> "Drag".
